@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "prettier": "prettier . --write",
     "prepare": "husky",
-    "test": "echo test_pre_commit"
+    "test": "echo 'test_pre_commit'"
   },
   "dependencies": {
     "react": "^18.2.0",
