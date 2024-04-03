@@ -14,6 +14,7 @@
     "test": "echo 'test_pre_commit'"
   },
   "dependencies": {
+    "firebase-tools": "^13.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
